@@ -1,6 +1,4 @@
 # .github
-Let us introduce you our team of engineers who have 10+ years of vast experience behind. 
-We do not want to foist our faith off on Data Science folks.
-We are going to make the engineering world convenient for the Data Science guys.
+Let us introduce our team of engineers, who have over 10 years of vast experience behind them. We don't want to impose our beliefs on the practitioners of data science. We are going to make the engineering world convenient for the data science guys.
 
 We are DS advocates.
