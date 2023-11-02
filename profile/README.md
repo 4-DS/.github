@@ -9,7 +9,7 @@ We are DS advocates.
 - Sinara Server is a Jupyter Server, with all the necessary libraries for working with data and training models.
 - Sinara Storage is a storage for data, editable code in Jupyter Notebook and temporary files.
 - Sinara Lib is a compact library that contains everything you need to create ML pipelines, for data preparation and versioning, model and preprocessing/postprocessing packaging  in a Docker Container with REST interface.
-- Sinara template is a component template for creating a Sinara Step - an ML pipeline step. The ML pipeline consists of several steps. Each step based on a template.
+- Sinara Template is a component template for creating a Sinara Step - an ML pipeline step. The ML pipeline consists of several steps. Each step based on a template.
 - Sinara Tools - tools for creating, deleting, stopping and starting a sinara server, creating docker images from BentoServices created by ML pipelines.
 
 To get started with Sinara, check out Sinara Tutorials. If you want to dive deep into the development of ML products, then Sinara Book is available for you. If you want to create a development process based on Sinara, check out the Sinara Dev Process.
