@@ -1,5 +1,5 @@
 # Welcome
-Let us introduce our team of engineers, who have over 10 years of vast experience behind them. We don't want to impose our beliefs on the practitioners of data science. We are going to make the engineering world convenient for the data science guys.
+We are team of engineers, who are going to make the engineering world convenient for the data science guys.
 
 We are DS advocates.
 
@@ -15,3 +15,4 @@ We are DS advocates.
 
 To get started with Sinara, check out Sinara Tutorials. If you want to dive deep into the development of ML products, then Sinara Book is available for you. If you want to create a development process based on Sinara, check out the Sinara Dev Process.
 
+To start you off, go to [Getting started page](https://github.com/4-DS/sinara-tutorials/wiki/Getting-started)
