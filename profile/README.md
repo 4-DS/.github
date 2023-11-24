@@ -1,7 +1,7 @@
 # Welcome
 We are team of engineers, who are making the engineering world convenient for the data science guys.
 
-We are DS advocates. Let us introduce SinaraML framework to you.
+We are DS advocates. Let us introduce SinaraML Framework to you.
 
 ## SinaraML Framework - framework for creating and operating DSML platforms
 - From the first sight of a Data Scientist with Sinara to receiving the first Docker image with a model accessible via REST, it will take 15 minutes only.
