@@ -18,7 +18,7 @@ SinaraML Framework provides Sinara Server, Sinara Storage, Sinara Lib, Sinara St
 - **Sinara Customizable Infra** - way to customize orchestration of Sinara Server, Sinara Storage and Sinara Spark for integration with your infrastructure (Git, Docker repos, authentication and authorization methods including Active Directory).
 - **Sinara Customizable Dev Process** - configure Sinara Template and Sinara Step for your development process.
 - **Sinara Examples** - library of ready to use configurable ML pipelines can be customized for your needs.
-- [Sinara Tutorials](https://github.com/4-DS/sinara-tutorials/wiki/Getting-started) and [Sinara Book](https://sinara-definitive-guide.readthedocs.io/en/latest/)
+- [Sinara Book](https://sinara-definitive-guide.readthedocs.io/en/latest/)
 
 To get started with Sinara, check out Sinara Tutorials. If you want to dive deep into the development of ML products, then Sinara Book is available for you. If you want to create a development process based on Sinara, check out the Sinara Dev Process.
 
