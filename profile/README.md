@@ -20,6 +20,4 @@ SinaraML Framework provides Sinara Server, Sinara Storage, Sinara Lib, Sinara St
 - **Sinara Examples** - library of ready to use configurable ML pipelines can be customized for your needs.
 - [**Sinara Book**](https://sinara-definitive-guide.readthedocs.io/en/latest/) allows you to dive deeply into the development of ML products with SinaraML examples.
 
-To get started with Sinara, check out Sinara Tutorials. If you want to dive deep into the development of ML products, then Sinara Book is available for you. If you want to create a development process based on Sinara, check out the Sinara Dev Process.
-
 To start you off, go to [**Getting started page**](https://github.com/4-DS/sinara-tutorials/wiki/Getting-started)
