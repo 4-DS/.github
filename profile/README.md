@@ -16,7 +16,7 @@ SinaraML Framework provides Sinara Server, Sinara Storage, Sinara Lib, Sinara St
 - **Sinara CLI** — number of CLI tools for creating, deleting, stopping and starting a Sinara Server, creating docker images from BentoServices created by ML pipelines, ML pipelines management, visualization etc.
 - **SinaraML Basic** — preconfigured personal MLOps platform working on desktop, remote virtual machine which can be located on-prem or on clouds like Google Collab/DataProc + Google Objecs, Azure DataBricks + Azure Blobs, Yandex DataSphere/DataProc + S3 etc.
 - **Sinara Customizable Infra** — way to customize orchestration of Sinara Server, Sinara Storage and Sinara Spark for integration with your infrastructure (Git, Docker repos, authentication and authorization methods including Active Directory).
-- **Sinara Customizable Dev Process** — configure Sinara Template and Sinara Step for your development process.
+- **Sinara Customizable Dev Process** — way to configure Sinara Template and Sinara Step for your development process.
 - **Sinara Examples** — library of ready to use configurable ML pipelines can be customized for your needs.
 - [**Sinara Book**](https://sinara-definitive-guide.readthedocs.io/en/latest/) allows you to dive deeply into the development of ML products with SinaraML examples.
 
