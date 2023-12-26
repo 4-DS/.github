@@ -4,9 +4,9 @@ We are team of engineers, who are making the engineering world convenient for th
 We are DS advocates. Let us introduce SinaraML Framework to you.
 
 ## SinaraML Framework is a framework for creating and operating MLOps platforms
-From the first sight of a Data Scientist with Sinara to receiving the first Docker image with a model accessible via REST, it will take 15 minutes only.
+From the first sight of a Data Scientist with SinaraML to receiving the first Docker image with a model accessible via REST, it will take 15 minutes only.
 
-SinaraML Framework provides Sinara Server, Sinara Storage, Sinara Lib, Sinara Step Template, Sinara Tools to the Data Scientist.
+SinaraML Framework provides SinaraML Server, SinaraML Storage, SinaraML Lib, SinaraML Step Template and other SinaraML tools and methodologies to the Data Scientist.
 
 - **SinaraML Server** is a Jupyter Server, with all the necessary libraries for working with data and training models. SinaraML provides three Basic Servers for different purposes — classic ML, computer vision (CV) and natural language processing (NLP).
 - **SinaraML Storage** is a long-term storage where ML pipeline stored input and output entities. Depending on infrastructure Sinara Storage can be implemented based on S3, HDFS protocols or local disk.
