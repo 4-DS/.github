@@ -28,4 +28,4 @@ SinaraML is lightweight in all its aspects. The SinaraML framework not only addr
 
 To start you off, go to [**Getting started page**](https://github.com/4-DS/sinara-tutorials/wiki/Getting-started) to try **SinaraML Tutorials**
 
-[**SinaraML Book**](https://sinara-definitive-guide.readthedocs.io/en/latest/) allows you to dive deeply into the development of ML products with SinaraML examples.
+[**SinaraML Book**](https://sinara-definitive-guide.readthedocs.io/en/latest/) allows you to dive deeply into the development of ML products.
