@@ -17,7 +17,7 @@ SinaraML brings together the best of different worlds:
 
 - Functionality of experiment management solutions such as MLFlow;
 - Flexibility and simplicity Jupyter Notebboks for experiments visualization and logging
-- Scalability and Power of Spark for Data Engineering
+- Scalability and power of Spark for Data Engineering
 - Flexibility of ETL for working with data
 - Out of the box automatic data versioning and traceability (Data Lineage across all ML Pipeline)
 - Model Serving by Data Scientist. Data scientists build Docker Images with REST interface without special knowledge about Docker, K8s, SinaraML APIs and REST frameworks. The resulting docker images do not require special infrastructure like as K8s or SinaraML servers and can run on any machine with docker installed.
