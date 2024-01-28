@@ -23,7 +23,7 @@ SinaraML brings together the best of different worlds:
 - Model Serving by Data Scientist. Data scientists build Docker Images with REST interface without special knowledge about Docker, K8s, SinaraML APIs and REST frameworks. The resulting docker images do not require special infrastructure like as K8s or SinaraML servers and can run on any machine with docker installed. Model Versioning does not require special Model Storage
 - Out of the box, up to date, carefully selected Python envs for developing both classic ML and Computer Vision model 
 
-The SinaraML framework not only addresses the needs of Data Scientists, but also the needs of MLOps engineers. SinaraML has an architecture with minimal operating costs. The platform relies heavily on the stateless servers, and the corporate MLOps platform can be implemented without relational and NoSQL DBMS
+SinaraML is lightweight in all its aspects. The SinaraML framework not only addresses the needs of Data Scientists, but also the needs of MLOps engineers. SinaraML has an architecture with minimal operating costs. The platform relies heavily on the stateless servers, and the corporate MLOps platform can be implemented without relational and NoSQL DBMS
 
 
 To start you off, go to [**Getting started page**](https://github.com/4-DS/sinara-tutorials/wiki/Getting-started) to try **SinaraML Tutorials**
