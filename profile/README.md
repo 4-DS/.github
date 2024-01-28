@@ -16,7 +16,7 @@ SinaraML is a thin wrapper around the technologies of de facto standards in the 
 SinaraML brings together the best of different worlds:
 
 - Functionality of experiment management solutions such as MLFlow;
-- Flexibility and simplicity Jupyter Notebboks for experiments visualization and logging
+- Flexibility and simplicity Jupyter Notebooks for data and ML experiments visualization and logging
 - Scalability and power of Spark for Data Engineering
 - Flexibility of ETL for working with data
 - Out of the box automatic data versioning and traceability (Data Lineage across all ML Pipeline)
