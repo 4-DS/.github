@@ -19,7 +19,7 @@ SinaraML brings together the best of different worlds:
 - Flexibility and simplicity of Jupyter Notebooks for data and ML experiments visualization and logging
 - Scalability and power of Spark for data engineering
 - Functionaity ML and data pipelines
-- Out of the box automatic data versioning and traceability (Data Lineage across all ML Pipeline)
+- Out of the box automatic data versioning and traceability (Data Lineage across whole ML Pipeline)
 - Model Serving by Data Scientist. Data scientists build Docker Images with REST interface without special knowledge about Docker, K8s, SinaraML APIs and REST frameworks. The resulting docker images do not require special infrastructure like as K8s or SinaraML servers and can run on any machine with docker installed. Model Versioning does not require special Model Storage
 - Out of the box, up to date, carefully selected Python envs for developing both classic ML and Computer Vision model 
 
