@@ -5,7 +5,7 @@ We are DS advocates. Let us introduce SinaraML Framework to you.
 
 ## SinaraML is a lightweight open source framework that simplifies Data Scientist's work and eliminates pain of accompanying engineering routines
 
-Like many others, SinaraML designed as a full-stack MLOps solution that allows you to focus on machine learning code development and takes care of the engineering tasks associated with scaling, reproducibility, model maintenance, data tracking, and experiment management.
+Like many others, SinaraML designed as a full-stack MLOps solution that allows Data Scinentist to focus on machine learning code development and takes care of the engineering tasks associated with scaling, reproducibility, model maintenance, data tracking, and experiment management.
 
 But unlike other similar solutions SinaraML is many more. It is next generation MLOps framework incorporated with ready to use MLOps platforms. From one side to work in platform you don't need to setup servers neither you no need cloud provider - you are fully independent. You can start develop you code [just now]() on you WIndows or Linix desktop or VM. From the other side SinaraML Framework ready for  full-blown corporate MLOps sulution. SinaraML Framework provides abstractions to connect corporate storage (like S3/HDFS), corporate servers for spark clusters (for PandasOnSpark), corporate Git and CI/СD tools. Once written your ML code fully transferable beetween all of these platforms. So, you can start development on your desktop and continue in the corporate MLOps platform.
 
