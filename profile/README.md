@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/4-DS/.github/assets/55787399/657815c9-1061-46af-a623-c2e321e9def1" />
+</p>
+
 # Welcome
 We are team of engineers, who are making the engineering world convenient for the data science guys.
 
