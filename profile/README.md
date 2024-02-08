@@ -3,7 +3,7 @@
 </p>
 
 # Welcome
-We are team of engineers, who are making the engineering world convenient for the data science guys.
+We are team of engineers, who are making the engineering world convenient for the data scientists
 
 We are DS advocates. Let us introduce SinaraML to you.
 
