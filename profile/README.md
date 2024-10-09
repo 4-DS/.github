@@ -7,7 +7,7 @@ We are team of engineers, who are making the engineering world convenient for th
 
 We are DS advocates. Let us introduce SinaraML to you.
 
-## SinaraML is a lightweight open source framework that simplifies Data Scientist's work and eliminates pain of accompanying engineering routines
+## SinaraML is a lightweight source available framework that simplifies Data Scientist's work and eliminates pain of accompanying engineering routines
 
 Like many others, SinaraML designed as a full-stack MLOps solution that allows Data Scinentist to focus on machine learning code development and takes care of the engineering tasks associated with scaling, reproducibility, model maintenance, data tracking, and experiment management.
 
